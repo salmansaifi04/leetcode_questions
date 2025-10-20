@@ -1,3 +1,5 @@
+# prefix sum approach
+
 class NumArray:
     def __init__(self, nums):
         self.prefix_sums = [0]
